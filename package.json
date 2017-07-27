@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/tony-zhang/react-native-blue-printer.git"
+    "url": "https://github.com/tony-zh/react-native-blue-printer.git"
   },
   "peerDependencies": {
     "react-native": "*"
